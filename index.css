@@ -46,6 +46,10 @@ ul {
 
 }
 
+h1.first{
+    color: #111;
+}
+
 h1{
 
     font-size: 25px;
